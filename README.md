@@ -30,7 +30,7 @@
 <br><br>
 
 <a href="https://github.com/Bhagya813/Bhagya813">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhagya813&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Bhagya's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhagya813&theme=radical&hide_border=true)](https://github.com/Bhagya813" alt="Bhagya's GitHub Stats Graph"/>
 </a>
 <br><br>
 
